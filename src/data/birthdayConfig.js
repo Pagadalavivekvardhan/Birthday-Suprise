@@ -36,7 +36,7 @@ export const birthdayConfig = {
       title: "The day we met",
       date: "12/05/2023",
       
-      image: "public/assets/images/first pic.jpeg",
+      image: "/assets/images/first pic.jpeg",
     },
     {
       title: "Our first conversation",
