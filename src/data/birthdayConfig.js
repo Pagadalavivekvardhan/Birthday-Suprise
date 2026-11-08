@@ -36,19 +36,19 @@ export const birthdayConfig = {
       title: "The day we met",
       date: "12/05/2023",
       
-      image: "public/assets/images/first-pic.jpeg",
+      image: "public/assets/images/first pic.jpeg",
     },
     {
       title: "Our first conversation",
       date: "15/4/2023",
       
-      image: "public/assets/images/convo.jpeg",
+      image: "public/assets/images/convooo.jpeg",
     },
     {
       title: "My favorite memory with you",
       
       
-      image: "public/assets/images/fav-mem.jpeg",
+      image: "public/assets/images/fav mem.jpeg",
     },
     {
       title: "The moment I realized you were special",
@@ -66,7 +66,7 @@ export const birthdayConfig = {
       title: "More memories waiting to happen",
       
       
-      image: "public/assets/images/more-mem.jpeg",
+      image: "public/assets/images/more mem.jpeg",
     },
   ],
 
@@ -103,7 +103,7 @@ Forever yours,`,
     { src: "public/assets/images/our1.jpeg", caption: "A beautiful moment" },
     { src: "public/assets/images/our2.jpeg", caption: "One of my favorites" },
     { src: "public/assets/images/weee.jpeg", caption: "Us, being us" },
-    { src: "public/assets/images/a-day.jpeg", caption: "A day to remember" },
+    { src: "public/assets/images/a day.jpeg", caption: "A day to remember" },
     { src: "public/assets/images/our3.jpeg", caption: "Your smile" },
     { src: "public/assets/images/forever.jpeg", caption: "Forever grateful" },
   ],
