@@ -104,7 +104,7 @@ Forever yours,`,
     { src: "/assets/images/our2.jpeg", caption: "One of my favorites" },
     { src: "/assets/images/weee.jpeg", caption: "Us, being us" },
     { src: "/assets/images/a day.jpeg", caption: "A day to remember" },
-    { src: "/assets/images/our3.jpeg", caption: "Your smile" },
+    { src: "/assets/images/smile.jpeg", caption: "Your smile" },
     { src: "/assets/images/forever.jpeg", caption: "Forever grateful" },
   ],
 
