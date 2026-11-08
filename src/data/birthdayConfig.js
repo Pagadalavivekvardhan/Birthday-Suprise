@@ -7,7 +7,7 @@ export const birthdayConfig = {
   fullName: "M. AAkshamaaaaa",
   dateOfBirth: "09/11/2005",
   age: "21",
-  profilePhoto: "public/assets/images/profile.jpeg", // add your photo to public/assets/images/
+  profilePhoto: "/assets/images/profile.jpeg", // add your photo to public/assets/images/
 
   // --- Intro screen ---
   intro: {
