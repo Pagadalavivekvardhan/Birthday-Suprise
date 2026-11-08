@@ -42,31 +42,31 @@ export const birthdayConfig = {
       title: "Our first conversation",
       date: "15/4/2023",
       
-      image: "public/assets/images/convooo.jpeg",
+      image: "/assets/images/convooo.jpeg",
     },
     {
       title: "My favorite memory with you",
       
       
-      image: "public/assets/images/fav mem.jpeg",
+      image: "/assets/images/fav mem.jpeg",
     },
     {
       title: "The moment I realized you were special",
       
     
-      image: "public/assets/images/special.jpeg",
+      image: "/assets/images/special.jpeg",
     },
     {
       title: "Our journey together",
       
       
-      image: "public/assets/images/journey.jpeg",
+      image: "/assets/images/journey.jpeg",
     },
     {
       title: "More memories waiting to happen",
       
       
-      image: "public/assets/images/more mem.jpeg",
+      image: "/assets/images/more mem.jpeg",
     },
   ],
 
@@ -100,12 +100,12 @@ Forever yours,`,
 
   // --- Memories gallery ---
   gallery: [
-    { src: "public/assets/images/our1.jpeg", caption: "A beautiful moment" },
-    { src: "public/assets/images/our2.jpeg", caption: "One of my favorites" },
-    { src: "public/assets/images/weee.jpeg", caption: "Us, being us" },
-    { src: "public/assets/images/a day.jpeg", caption: "A day to remember" },
-    { src: "public/assets/images/our3.jpeg", caption: "Your smile" },
-    { src: "public/assets/images/forever.jpeg", caption: "Forever grateful" },
+    { src: "/assets/images/our1.jpeg", caption: "A beautiful moment" },
+    { src: "/assets/images/our2.jpeg", caption: "One of my favorites" },
+    { src: "/assets/images/weee.jpeg", caption: "Us, being us" },
+    { src: "/assets/images/a day.jpeg", caption: "A day to remember" },
+    { src: "/assets/images/our3.jpeg", caption: "Your smile" },
+    { src: "/assets/images/forever.jpeg", caption: "Forever grateful" },
   ],
 
   // --- Final surprise ---
